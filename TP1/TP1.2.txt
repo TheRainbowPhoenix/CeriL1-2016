@@ -1,0 +1,16 @@
+https://www.w3.org/TR/html5/
+
+
+<img></img>
+alt=""
+
+le doctype se situe en premier
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<!DOCTYPE html>
+
+<a>
+href=""
+
+dans le <head>
+<meta charset="utf-8">
+<title>
